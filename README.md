@@ -1,14 +1,14 @@
 # Group Twelve Project for COP 4331 - Spring 2019
 
 ## Team Members (Add your name here!)
-- 
+- Devin Draizin
 -
 -
 - Kyle Wu
 
 ## Vision Statement
 
-1. For ... (the product’s target market)
+1. For ... (the productâ€™s target market)
 2. Who/That ... (describe what need your product solves)
 3. The product ... (product name,or product category)
 4. That leads to ... (main advantage, appealing reason for purchase)
